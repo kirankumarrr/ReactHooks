@@ -1,0 +1,18 @@
+useState  :: Allow a function component to use component-level useState
+
+const [resource, setResource] = useState("posts");
+      resource::contains the present value of this piece of state
+      setResource:: function to call when we want to update the state
+      useState:: function from react
+      "posts":: initial Value
+
+useEffect :: Allow a function component to use lifecycle method
+
+useContext :: Allow a function component to use the context system
+
+useRef :: Allow  a  function component to use the ref system
+
+useReducer :: Allow a function component to store date through a useReducer
+
+
+fewmore..
